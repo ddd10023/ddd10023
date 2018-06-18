@@ -1,0 +1,17 @@
+#include <Stdio.h>
+
+inr main(void){
+
+
+
+
+
+
+
+
+
+
+		printf("준형이 내 사랑");
+
+
+}
